@@ -51,7 +51,101 @@ entre V e I.
 
 ![image](https://user-images.githubusercontent.com/86561660/201850065-2844b14b-7636-4f50-b618-7fa625e67e02.png)
 
-R1 = 0.5 Æ, R2 = 1.0 Æ, R3 = 2 Æ
+![image](https://user-images.githubusercontent.com/86561660/201850897-a6ddf1ce-ec09-4cd5-ac48-7f7d68bec58e.png)
+
+9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
+gris, café, rojo
+
+
+![image](https://user-images.githubusercontent.com/86561660/201851011-80256442-daeb-4d01-bca1-c932ec1848a5.png)
+
+11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más
+tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia,
+debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
+nuevo valor?
+
+El voltaje disminuyó 4 V (de 10 a 6 V)
+
+13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+
+![image](https://user-images.githubusercontent.com/86561660/201851345-89cf6be3-4034-4a25-b363-5c7861bf9817.png)
+
+![image](https://user-images.githubusercontent.com/86561660/201851425-9191dece-4d86-46cf-97a1-8582ab7d15f7.png)
+
+15. Determine la corriente en cada caso:
+
+![image](https://user-images.githubusercontent.com/86561660/201851745-d3dd2aa7-21bc-4450-a2de-afbf86b60b84.png)
+
+![image](https://user-images.githubusercontent.com/86561660/201851792-e342dbfb-d07b-4c3f-a559-ab9a99c1919b.png)
+
+17. Se conecta un resistor de 10 V a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+
+  1.2 A
+  
+19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la
+corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+
+ 532 mA
+ 
+ 21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+
+ Sí. La corriente ahora es de 0.642 A, lo cual excede la capacidad del fusible.
+ 
+ 23. Calcule el voltaje para cada valor de I y R:
+
+![image](https://user-images.githubusercontent.com/86561660/201852290-a2ecb338-e91c-4f17-84f6-1f9c3c2e5b0d.png)
+
+![image](https://user-images.githubusercontent.com/86561660/201852377-a98a7f39-e127-4c1e-a01a-027fdfbd6f3f.png)
+
+25. Se leen tres amperes de corriente a través de un resistor de 27 V conectado a una fuente de voltaje.
+¿Cuánto voltaje produce la fuente?
+
+ 81 V
+ 
+ 27. Se conecta una fuente de 6 V a un resistor de 100 V mediante dos tramos de alambre de cobre calibre
+18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
+100 V. Determine lo siguiente:
+
+(a) Corriente
+
+(b) Caída de voltaje en el resistor
+
+(c) Caída de voltaje a través de cada tramo de alambre
+
+![image](https://user-images.githubusercontent.com/86561660/201852621-e70954f9-b413-436d-8310-0faa78e864e2.png)
+
+29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+
+![image](https://user-images.githubusercontent.com/86561660/201852684-d5adc250-64e9-4119-812d-7e1eef7cbae2.png)
+
+![image](https://user-images.githubusercontent.com/86561660/201852792-f20738dd-b660-4983-b11e-82a1b8cae281.png)
+
+31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la
+cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con
+120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+
+
+![image](https://user-images.githubusercontent.com/86561660/201852881-00b2ca49-825e-428a-b85a-0a8ae0d45e00.png)
+
+
+![image](https://user-images.githubusercontent.com/86561660/201853024-f605bce4-9199-4b2c-9a87-112e617267c9.png)
+
+
+33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de
+este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál
+es el problema con el circuito?
+
+![image](https://user-images.githubusercontent.com/86561660/201853107-869bd7b7-9576-4dd9-afa3-20d5d1d26fa2.png)
+
+
+
+
+
+
+ 
+ 
+
+
 
 
 
