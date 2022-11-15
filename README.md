@@ -154,7 +154,39 @@ mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de 
 
 ![image](https://user-images.githubusercontent.com/86561660/201853982-91fdac2d-d146-4720-a530-1c8815d15dec.png)
 
+## CAPITULO 4
 
+1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere
+
+volt 5 joule/coulomb
+
+amp 5 coulomb/segundo
+
+VI 5 joule/coulomb 3 coulomb/segundo 5 joule/seg 5 watt
+
+3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+ 350 W
+ 
+ 5. ¿A cuántos watts equivalen 1000 J en 50 ms?
+
+ 20 kW
+ 
+ 7. Convierta las siguientes cantidades en megawatts:
+
+![image](https://user-images.githubusercontent.com/86561660/201855718-a08fa030-a47c-4544-904f-f738294afc5f.png)
+
+(a) 1 MW 
+
+(b) 3 MW
+
+(c) 150 MW 
+
+(d) 8.7 MW
+
+9. Convierta las siguientes cantidades en microwatts:
+
+(a) 2 W (b) 0.0005 W (c) 0.25 mW (d) 0.00667 mW
 
 
 
