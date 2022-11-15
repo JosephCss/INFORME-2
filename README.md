@@ -1,5 +1,25 @@
 # INFORME-2
 
+## 1.	Objetivo General 
+
+ Resolver ejercicios relacionados con la ley de Ohm, energia y potencia
+ 
+ ## 2.	Objetivos 
+ 
+ Interpretar los valores obtendios en la solucion de  ejercicios de ley de ohm
+
+ Enter que relacion existe entre la energia y potencia
+
+ Contrastar las relaciones que tiene el voltaje, corriente y resistencia 
+ 
+  ## 2.	Marco Teorico
+  
+ ![circ_inf2](https://user-images.githubusercontent.com/86561660/201866451-eb8a2233-3af2-45f9-9e87-7438d5a5bde7.png)
+ 
+
+![circ_inf2_1](https://user-images.githubusercontent.com/86561660/201866464-c0579256-acce-422a-aa35-7e34145b4025.png)
+
+
 ## 4.	Explicación y resolución de ejercicios o problemas
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente
@@ -266,6 +286,14 @@ es la eficiencia de esta fuente de potencia?
 39. Abra el archivo P04-39 y determine la corriente, el voltaje y la resistencia. Calcule la potencia con estos valores.
 
 ![image](https://user-images.githubusercontent.com/86561660/201858700-c4da5a1a-894a-4a81-a25a-28fcb3b00fba.png)
+
+6.	CONCLUSIONES
+
+El presente deber logro mejorar mi resolución de ejercicios de la ley de ohm, energia y potencia, ademas de ayudarme a la comprension de los conceptos de voltaje, corriente y carga , también fue de gran ayuda para ampliar mi interpretación de la ley que riguen en los circuitos agregando que me permitió desarrollar la habilidad entender la realcion lineal de Voltaje respecto a la intensidad y la relacion inversa a la resistencia.
+
+7.	BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. México: PEARSON EDUCACIÓN.
 
 
 
