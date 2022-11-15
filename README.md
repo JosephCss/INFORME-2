@@ -33,11 +33,26 @@ respuesta :
 
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos
 
-V = IR
+ V = IR
 
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente
 el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de
 V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica
+
+
+![image](https://user-images.githubusercontent.com/86561660/201850065-2844b14b-7636-4f50-b618-7fa625e67e02.png)
+
+ La gráfica es una línea recta, lo que indica una relación lineal
+entre V e I.
+
+
+7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1
+,R2 y R3.
+
+![image](https://user-images.githubusercontent.com/86561660/201850065-2844b14b-7636-4f50-b618-7fa625e67e02.png)
+
+R1 = 0.5 Æ, R2 = 1.0 Æ, R3 = 2 Æ
+
 
 
 
