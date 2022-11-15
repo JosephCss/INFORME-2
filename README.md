@@ -135,7 +135,29 @@ cual está representada por una resistencia equivalente en la figura 3-23(b). Si
 este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál
 es el problema con el circuito?
 
-![image](https://user-images.githubusercontent.com/86561660/201853107-869bd7b7-9576-4dd9-afa3-20d5d1d26fa2.png)
+![image](https://user-images.githubusercontent.com/86561660/201853460-ec61d5c3-8e4d-43c3-8566-cfc13473e3e3.png)
+
+35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+![image](https://user-images.githubusercontent.com/86561660/201853597-155bca1a-2852-42f8-bbe7-c0df541fcab6.png)
+
+37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la
+mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+
+ Cinco
+ 
+ 39. Abra el archivo P03-39 y mida los valores de resistencia de los resistores
+
+![image](https://user-images.githubusercontent.com/86561660/201853859-0a6415a1-8d99-4cee-8def-8ea83cb89521.png)
+
+41. Abra el archivo P03-41 y determine el valor del voltaje de la fuente y la resistencia.
+
+![image](https://user-images.githubusercontent.com/86561660/201853982-91fdac2d-d146-4720-a530-1c8815d15dec.png)
+
+
+
+
+
 
 
 
