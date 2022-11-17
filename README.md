@@ -51,6 +51,8 @@ respuesta :
 
 (f) La corriente no cambia.
 
+debido a la relacion lineal de la corriente y el voltaje y la relacion inversa de la restitencia 
+
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos
 
  V = IR
@@ -69,7 +71,7 @@ entre V e I.
 7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1
 ,R2 y R3.
 
-![image](https://user-images.githubusercontent.com/86561660/201850065-2844b14b-7636-4f50-b618-7fa625e67e02.png)
+![image](https://user-images.githubusercontent.com/86561660/202409515-9a7f6b7e-44a1-4071-8259-99c90541782f.png)
 
 ![image](https://user-images.githubusercontent.com/86561660/201850897-a6ddf1ce-ec09-4cd5-ac48-7f7d68bec58e.png)
 
