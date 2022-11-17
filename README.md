@@ -8,7 +8,7 @@
  
  Interpretar los valores obtendios en la solucion de  ejercicios de ley de ohm
 
- Enter que relacion existe entre la energia y potencia
+ Entender que relacion existe entre la energia y potencia
 
  Contrastar las relaciones que tiene el voltaje, corriente y resistencia 
  
