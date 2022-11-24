@@ -14,10 +14,8 @@
  
   ## 2.	Marco Teorico
   
- ![circ_inf2](https://user-images.githubusercontent.com/86561660/201866451-eb8a2233-3af2-45f9-9e87-7438d5a5bde7.png)
- 
+![Uploading pix1.png…]()
 
-![circ_inf2_1](https://user-images.githubusercontent.com/86561660/201866464-c0579256-acce-422a-aa35-7e34145b4025.png)
 
 
 ## 4.	Explicación y resolución de ejercicios o problemas
@@ -372,8 +370,7 @@ Usamos la fórmula de potencia que es igual P=w/t
 
 La potencia también es igual a I^2*R
 
-5. VIDEO [https://www.youtube.com/watch?v=lzG0-nd9UXc&ab_channel=JosephFrancisco](https://www.youtube.com/watch?v=23fCiERqe-k&ab_channel=JosephFrancisco)
-
+5. VIDEO https://www.youtube.com/watch?v=IlW0fznZBOM&ab_channel=JosephFrancisco
 6.	CONCLUSIONES
 
 El presente deber logro mejorar mi resolución de ejercicios de la ley de ohm, energia y potencia, ademas de ayudarme a la comprension de los conceptos de voltaje, corriente y carga , también fue de gran ayuda para ampliar mi interpretación de la ley que riguen en los circuitos agregando que me permitió desarrollar la habilidad entender la relacion lineal de Voltaje respecto a la intensidad y la relacion inversa a la resistencia.
