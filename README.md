@@ -13,8 +13,10 @@
  Contrastar las relaciones que tiene el voltaje, corriente y resistencia 
  
   ## 2.	Marco Teorico
-  
-![Uploading pix1.png…]()
+![circ_inf2_1](https://user-images.githubusercontent.com/86561660/203872957-a32dcf02-7324-4126-b0ee-8eb1a23dd11a.png)
+
+![circ_inf2](https://user-images.githubusercontent.com/86561660/203872961-381bd9f5-1b4d-4cee-9eb6-7c5fe866c7a8.png)
+
 
 
 
